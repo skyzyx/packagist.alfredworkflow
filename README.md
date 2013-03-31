@@ -2,4 +2,4 @@
 
 <img src="screenshot.png" style="display:inline-block; background-color: #ccc; padding: 10px;">
 
-**[Download](packagist.alfredworkflow)**
+**[Download](https://github.com/skyzyx/packagist.alfredworkflow/raw/master/packagist.alfredworkflow)**
