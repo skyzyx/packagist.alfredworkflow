@@ -1,5 +1,6 @@
 # Alfred 2 workflow for Packagist
 
-<img src="screenshot.png" style="display:inline-block; background-color: #ccc; padding: 10px;">
+<div><img src="screenshot.png"></div>
 
-**[Download](https://github.com/skyzyx/packagist.alfredworkflow/raw/master/packagist.alfredworkflow)**
+**[Download!](https://github.com/skyzyx/packagist.alfredworkflow/raw/master/packagist.alfredworkflow)**
+Requires the [Alfred 2 and the Powerpack](http://www.alfredapp.com/powerpack/).
