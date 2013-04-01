@@ -1,5 +1,5 @@
 {
-	"version": 1.01,
-	"download_uri": "https://github.com/skyzyx/packagist.alfredworkflow/raw/master/packagist.alfredworkflow",
-	"description": "Added support for Alleyoop updates."
+	"version": 1.02,
+	"download_uri": "https://github.com/skyzyx/packagist.alfredworkflow/raw/1.0.2/packagist.alfredworkflow",
+	"description": "Reduced the size of the Workflow. Changed the Alleyoop downloads to point to a tag instead of HEAD."
 }
