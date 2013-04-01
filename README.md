@@ -26,6 +26,10 @@ Are you a developer? Want to hack the code? Here's what you need to know.
 
 3. Make changes, edits and other fixes.
 
+	```php
+	echo "i am gud develpr!";
+	```
+
 4. Run the build script to remove any non-essential files before exporting the updated workflow from Alfred.
 
 	```bash
